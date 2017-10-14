@@ -1,4 +1,4 @@
 # Scott Newson
 Personal website
 
-### [Jekyll theme](http://chibicode.github.io/solo)
+Created with [Jekyll](https://jekyllrb.com/) and the [Solo](http://chibicode.github.io/solo) theme.
