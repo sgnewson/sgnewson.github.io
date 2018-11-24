@@ -13,4 +13,4 @@ Building source-code analysis tools at Synopsys. Summer-time participant in the 
 * [GitHub](https://github.com/sgnewson)
 * [BitBucket](https://bitbucket.org/sgnewson/)
 * [Synopsys Tools](https://www.synopsys.com/software-integrity/all-products-services.html)
-
+* [Trapeze Club](https://www.rockymountaintrapeze.ca/)
