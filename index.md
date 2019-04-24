@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Scott Newson
-Software engineer and occasional circus artist based in Calgary, Alberta, Canada.
+Software engineer and occasional circus artist based in Calgary, Canada.
 
-Currently building scalable web applications for source-code analysis tools at Synopsys.
+Doing research and development on software engineering tools for detecting and tracing software vulnerabilities and defects.
 
 ## Links
 
