@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Scott Newson
-Software engineer and occasional circus artist based in Calgary, Canada.
+Software engineer and occasional circus artist based in Alberta, Canada.
 
-Doing research and development on software engineering tools for detecting and tracing software vulnerabilities and defects.
+Doing research and development on software engineering tools, with a focus on detecting and managing software security defects.
 
 ## Links
 
@@ -13,3 +13,4 @@ Doing research and development on software engineering tools for detecting and t
 * [GitHub](https://github.com/sgnewson)
 * [Synopsys Software Integrity](https://www.synopsys.com/software-integrity.html)
 * [Flying Trapeze Club](https://www.rockymountaintrapeze.ca/)
+* [Orienteering Club](https://orienteeringcalgary.ca/)
