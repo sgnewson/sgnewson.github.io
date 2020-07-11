@@ -1,6 +1,7 @@
 # Site settings
 title: Scott Newson
 description: Personal website.
+url: http://scottnewson.ca
 
 # Build settings
 markdown: kramdown
