@@ -3,16 +3,17 @@ layout: default
 ---
 
 ## Scott Newson
-Software engineer, occasional circus artist, and outdoor enthusiast based in western Canada.
+Software engineer, occasional circus artist, and outdoor enthusiast in western Canada.
 
-Studied Cognitive Systems at UBC and generally interested in artificial, human and group intelligence. Currently employed with the Synopsys Software Integrity Group (SIG) and working on tools for detecting and tracing software vulnerabilities and defects.
+Studied Cognitive Systems at UBC and generally interested in computational, human, and group intelligence. Currently employed with the Synopsys Software Integrity Group (SIG), where I build software for detecting and tracing vulnerabilities and defects in other software.
 
-Past work includes: Software Developer in Calgary and Scotland, Research assistant at UBC, Outdoor Instructor in Scotland and Flying Trapeze Trainee Instructor in Calgary.
+Past activities (in no particular order): software developer, research assistant, outdoor instructor, community sport volunteer, and flying trapeze instructor.
 
 ## Links
 
-* [Flying Trapeze Club](https://www.rockymountaintrapeze.ca/)
-* [Orienteering Club](https://orienteeringcalgary.ca/)
-* [Benmore Outdoor Centre](https://www.experienceoutdoors.org.uk/argyll/argyll-accommodation)
-* [Stack Overflow](https://stackoverflow.com/users/346912/scott-newson)
+* [Rocky Mountain Flying Trapeze Club](https://www.rockymountaintrapeze.ca/)
+* [Foothills Wanderers Orienteering Club](https://orienteeringcalgary.ca/)
+* [Benmore Outdoor Centre](https://www.experienceoutdoors.org.uk/outdoor-learning-scotland)
+* [Imager Lab UBC](http://www.cs.ubc.ca/labs/imager/imager.php)
+* [Cognitive Systems UBC](https://cogsys.ubc.ca/)
 * [Synopsys SIG](https://www.synopsys.com/software-integrity.html)
