@@ -14,6 +14,4 @@ Past activities (in no particular order): software developer, research assistant
 * [Rocky Mountain Flying Trapeze Club](https://www.rockymountaintrapeze.ca/)
 * [Foothills Wanderers Orienteering Club](https://orienteeringcalgary.ca/)
 * [Benmore Outdoor Centre](https://www.experienceoutdoors.org.uk/outdoor-learning-scotland)
-* [Imager Lab UBC](http://www.cs.ubc.ca/labs/imager/imager.php)
 * [Cognitive Systems UBC](https://cogsys.ubc.ca/)
-* [Synopsys SIG](https://www.synopsys.com/software-integrity.html)
