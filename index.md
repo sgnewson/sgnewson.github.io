@@ -3,11 +3,9 @@ layout: default
 ---
 
 ## Scott Newson
-Software engineer, circus artist, and outdoor enthusiast in western Canada.
+Studied Cognitive Systems at UBC and generally interested in computational, human, and group cognition. Employed at [Shopify](https://www.shopify.com), where I write software to build trust and manage access to data. Living in western Canada.
 
-Studied Cognitive Systems at UBC and generally interested in computational, human, and group cognition. Employed at [Shopify](https://www.shopify.com), where I write software to build trust and manage access to data. 
-
-Past activities (in no particular order): software developer, research assistant, student, outdoor instructor, community sport volunteer, and flying trapeze instructor.
+Past activities include: software developer, research assistant, student, programming mentor, outdoor instructor, community sport coach, mildly competitive orienteer, and flying trapeze instructor.
 
 ## Links
 ### Past Employers
